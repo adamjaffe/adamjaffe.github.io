@@ -24,8 +24,8 @@ body {
 .headers {
 	position: relative;
 	font-family: Gill Sans;
-	font-size: 18px
-	color:#0066FF;
+	font-size: 18px;
+	color: #0066FF;
 	float: top;
 	text-align: center;
 }
