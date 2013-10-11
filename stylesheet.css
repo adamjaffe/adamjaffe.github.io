@@ -6,18 +6,22 @@ h1 {
 }
 
 body {
-	background-color:#0066FF;
+	background-color:##FFFFFF;
 }
 
 #welcome {
-	font-family:Gill Sans;
-	color:#FFFFFF;
+	position: relative;
+	font-family: Gill Sans;
+	color:#0066FF;
 	float: top;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 .facts {
 	font-family:Gill Sans;
-	color:#FFFFFF;
+	color:#0066FF;
 }
 
 img {
