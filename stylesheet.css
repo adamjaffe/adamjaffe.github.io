@@ -1,19 +1,27 @@
 <<<<<<< HEAD
 /*Free Jaffe CSS stylesheet!*/
+/*this first one won't work for some reason so it's a placeholder*/
+h1 {
+	color: blue;
+}
+
+body {
+	background-color:#00FF00;
+}
 
 h3 {
 	font-family:Gill Sans;
-	color:#0033FF;
+	color:#00CCFF;
 }
 
 p {
 	font-family:Gill Sans;
-	color:#00FF00;
+	color:#00CCFF;
 }
 
 img {
-	height: 150px;
-	width: 150px;
+	height: 200px;
+	width: 200px;
 }
 
 =======
