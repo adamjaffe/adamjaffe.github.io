@@ -12,7 +12,7 @@ body {
 #welcome {
 	position: relative;
 	top: -10px;
-	background-color:#FF77FF;
+	background-color: #00FF00;
 }
 
 h2 {
@@ -20,8 +20,8 @@ h2 {
 	color:#0066FF;
 	font-size: 24px;
 	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .headers {
