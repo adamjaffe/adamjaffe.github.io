@@ -1,14 +1,15 @@
 <<<<<<< HEAD
 /*Free Jaffe CSS stylesheet!*/
 
-img{
-	height:100px;
-	width:100px;
+img {
+	border: 2px solid black;
+	height: 200px;
+	width: 200px;
 }
 
-h3{
+h3 {
 	font-family:Gill Sans;
-	color:0033FF;
+	color:#0033FF;
 }
 
 p{
