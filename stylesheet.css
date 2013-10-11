@@ -15,10 +15,10 @@ body {
 	background-color: #00FF00;
 	font-family: Gill Sans;
 	color:#0066FF;
-	font-size: 24px;
+	font-size: 48px;
 	text-align: center;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .headers {
@@ -33,13 +33,14 @@ body {
 .facts {
 	font-family:Gill Sans;
 	color:#0066FF;
+	text-align: center;
 }
 
 img {
 	height: 191px;
 	width: 173px;
 	border: 2px solid #00FF00;
-	position: right;
+	position: center;
 }
 
 =======
