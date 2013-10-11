@@ -1,10 +1,6 @@
 <<<<<<< HEAD
 /*Free Jaffe CSS stylesheet!*/
 /*this first one won't work for some reason so it's a placeholder*/
-h1 {
-	color: blue;
-}
-
 body {
 	background-color:#FFFFFF;
 }
@@ -24,7 +20,8 @@ body {
 .headers {
 	position: relative;
 	font-family: Gill Sans;
-	font-size: 18px;
+	font-size: 24px;
+	font-weight: bold;
 	color: #0066FF;
 	float: top;
 	text-align: center;
