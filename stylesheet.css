@@ -1,20 +1,19 @@
 <<<<<<< HEAD
 /*Free Jaffe CSS stylesheet!*/
 
-img {
-	border: 2px solid black;
-	height: 200px;
-	width: 200px;
-}
-
 h3 {
 	font-family:Gill Sans;
 	color:#0033FF;
 }
 
-p{
+p {
 	font-family:Gill Sans;
 	color:#00FF00;
+}
+
+img {
+	height: 150px;
+	width: 150px;
 }
 
 =======
