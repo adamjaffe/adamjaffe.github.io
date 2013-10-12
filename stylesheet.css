@@ -8,16 +8,10 @@ body {
 #welcome {
 	position: relative;
 	top: -5px;
-	border: 6px solid #00FF44;
-	font-family: "Book Antiqua", "Palatino Linotype", Georgia, serif;
-	color:#000000;
+	font-family:"Futura";
+	color:#00FF44;
 	font-size: 90px;
 	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-	font-style: italic;
 }
 
 .headers {
