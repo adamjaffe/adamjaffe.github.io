@@ -8,7 +8,7 @@ body {
 #welcome {
 	position: relative;
 	top: -5px;
-	font-family:"Futura";
+	font-family: "Futura";
 	color:#00FF44;
 	font-size: 90px;
 	text-align: center;
@@ -16,17 +16,17 @@ body {
 
 .headers {
 	position: relative;
-	font-family: Gill Sans;
+	font-family: Futura;
 	font-size: 24px;
 	font-weight: bold;
-	color: #0066FF;
+	color: ##A0A0A0;
 	float: top;
 	text-align: center;
 }
 
 .facts {
-	font-family:Gill Sans;
-	color:#0066FF;
+	font-family: Futura;
+	color:##A0A0A0;
 	text-align: center;
 }
 
