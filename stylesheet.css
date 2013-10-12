@@ -7,11 +7,11 @@ body {
 
 #welcome {
 	position: relative;
-	top: -10px;
+	top: -5px;
 	border: 6px solid #00FF44;
-	font-family: Baskerville;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
 	color:#686868;
-	font-size: 120px;
+	font-size: 90px;
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
