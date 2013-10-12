@@ -37,6 +37,11 @@ img {
 	position: center;
 }
 
+#footerline {
+	 width: "100%";
+	 color: #00FF44;
+	 size: 1px;
+}
 =======
 stylsheet.css
 >>>>>>> 03c4f2a0d02bab78782353b387a1912c050d9265
