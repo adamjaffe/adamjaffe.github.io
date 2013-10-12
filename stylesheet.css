@@ -38,9 +38,11 @@ img {
 }
 
 hr {
-	 width: 80%;
-	 height: 5px;
 	 color: #00FF44;
+	 background: #00FF44;
+	 width: 90%;
+	 height: 20px;
+	 
 }
 =======
 stylsheet.css
