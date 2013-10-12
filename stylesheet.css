@@ -8,13 +8,14 @@ body {
 #welcome {
 	position: relative;
 	top: -10px;
-	background-color: #00FF44;
-	font-family: Gill Sans;
-	color:#0066FF;
-	font-size: 48px;
+	border: 6px solid #00FF44;
+	font-family: Baskerville;
+	color:##686868;
+	font-size: 120px;
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	font-style: italic;
 }
 
 .headers {
