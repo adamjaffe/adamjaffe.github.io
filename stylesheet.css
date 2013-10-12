@@ -37,8 +37,8 @@ img {
 	position: center;
 }
 
-#hr {
-	 width: "100%";
+hr {
+	 width: 80%;
 	 height: 5px;
 	 color: #00FF44;
 }
