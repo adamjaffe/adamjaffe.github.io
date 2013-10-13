@@ -10,6 +10,7 @@ body {
 body {
 	background-color:#FFFFFF;
 	font-family: Futura, Tahoma, sans-serif;
+	font-size: 18px;
 	color:#707070;
 	width: 1000px;
 	margin: 0px auto;
@@ -30,7 +31,7 @@ body {
 	position: relative;
 	text-transform: uppercase;
 	font-family: "Gill Sans", Futura, sans-serif;;
-	font-size: 22px;
+	font-size: 24px;
 	font-weight: normal;
 	letter-spacing: 3px;
 	color: #707070;
@@ -38,55 +39,55 @@ body {
 	text-align: center;
 	border-top: 1px solid #00FF44;
 	border-bottom: 1px solid #00FF44;
-	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
-.facts {
-	display: block;
-	text-align: left;
-	margin-bottom: 30px;
+#bio {
+	margin-bottom: 25px;
+	padding-bottom: 10px;
+	letter-spacing: 0.5px;
+	line-height: 25px;
 }
 
-#firstanswer {
-	width: 30%;
-	position: relative;
-	float:left;
-}
-
-#secondanswer {
-	position: relative;
-	width: 30%px;
-	float: right;
-}
-
-#thirdanswer {
-	position: relative;
-	width: 30%;
-	float: right;
+#desc {
+	padding-top: 20px;
 }
 
 #links {
-	display: block;
-	position: relative;
-	clear: both;
 	margin-top: 5px;
 	margin-bottom: 5px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	clear: both;
 	text-align: center;
 	text-transform: uppercase;
+	border-top: 2px solid #00FF44;
 	font-size: 70px;
 	font-family: Futura;
-	border-top: 2px solid #00FF44;
-	letter-spacing: 4px;
+	letter-spacing: 6px;
 }
 
-img {
-	height: 191px;
-	width: 173px;
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+li {
+	display: inline;
+	padding: 0px;
+	margin: 0px;
+}
+
+#selfie {
+	height: 133px;
+	width: 122px;
 	border: 2px solid #00FF44;
-	position: center;
+	position: relative;
+	float: left;
+	margin-right: 25px;
+	margin-top: 5px;
 }
 
 a {
