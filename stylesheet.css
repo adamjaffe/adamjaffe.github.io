@@ -1,33 +1,85 @@
 <<<<<<< HEAD
 /*Free Jaffe CSS stylesheet!*/
-/*this first one won't work for some reason so it's a placeholder*/
+
+/*PLACEHOLDER FOR SOME REASON*/
+body {
+	background-color:#000000;
+}
+/*PLACEHOLDER FOR SOME REASON*/
+
 body {
 	background-color:#FFFFFF;
+	font-family: Futura, Tahoma, sans-serif;
+	color:#707070;
+	width: 1000px;
+	margin: 0px auto;
 }
 
-#welcome {
+#arrival {
 	position: relative;
 	top: -5px;
 	font-family: "Futura";
-	color:#00FF44;
 	font-size: 90px;
+	font-weight: normal;
+	color:#00FF44;
 	text-align: center;
+	margin-bottom: 40px;
 }
 
-.headers {
+#questions {
 	position: relative;
-	font-family: Futura;
-	font-size: 24px;
-	font-weight: bold;
-	color: #909090;
+	text-transform: uppercase;
+	font-family: "Gill Sans", Futura, sans-serif;;
+	font-size: 22px;
+	font-weight: normal;
+	letter-spacing: 3px;
+	color: #707070;
 	float: top;
 	text-align: center;
+	border-top: 1px solid #00FF44;
+	border-bottom: 1px solid #00FF44;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 .facts {
-	font-family: Futura;
-	color:#909090;
+	display: block;
+	text-align: left;
+	margin-bottom: 30px;
+}
+
+#firstanswer {
+	width: 30%;
+	position: relative;
+	float:left;
+}
+
+#secondanswer {
+	position: relative;
+	width: 30%px;
+	float: right;
+}
+
+#thirdanswer {
+	position: relative;
+	width: 30%;
+	float: right;
+}
+
+#links {
+	display: block;
+	position: relative;
+	clear: both;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	text-align: center;
+	text-transform: uppercase;
+	font-size: 70px;
+	font-family: Futura;
+	border-top: 2px solid #00FF44;
+	letter-spacing: 4px;
 }
 
 img {
@@ -37,14 +89,16 @@ img {
 	position: center;
 }
 
-hr {
-	display: block;
-	height: 2px;
-	border-top: 2px solid #00FF44;
-	border: 0;
-	background: #00FF44;
-	width: 90%;
+a {
+	text-decoration: none;
+	color: #707070
 }
+
+a:hover {
+	color: #0066FF;
+	cursor: pointer;
+}
+
 =======
 stylsheet.css
 >>>>>>> 03c4f2a0d02bab78782353b387a1912c050d9265
