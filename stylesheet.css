@@ -16,56 +16,28 @@ body {
 	margin: 0px auto;
 }
 
-#arrival {
-	position: relative;
-	top: -5px;
-	font-family: "Futura";
+#header {
+	border-bottom: 2px solid #00FF44;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+
+#logo {
+	font-family: "Futura", sans-serif;
 	font-size: 90px;
-	font-weight: normal;
 	color:#00FF44;
-	text-align: center;
-	margin-bottom: 40px;
-}
-
-#questions {
-	position: relative;
-	text-transform: uppercase;
-	font-family: "Gill Sans", Futura, sans-serif;;
-	font-size: 24px;
-	font-weight: normal;
-	letter-spacing: 3px;
-	color: #707070;
-	float: top;
-	text-align: center;
-	border-top: 1px solid #00FF44;
-	border-bottom: 1px solid #00FF44;
-	padding-top: 20px;
-	padding-bottom: 20px;
-}
-
-#bio {
-	margin-bottom: 25px;
-	padding-bottom: 10px;
-	letter-spacing: 0.5px;
-	line-height: 25px;
-}
-
-#desc {
-	padding-top: 20px;
 }
 
 #links {
-	margin-top: 5px;
-	margin-bottom: 5px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	clear: both;
-	text-align: center;
+	float: right;
+	position: relative;
+	top: 7px;
 	text-transform: uppercase;
-	border-top: 2px solid #00FF44;
-	font-size: 70px;
-	font-family: Futura;
-	letter-spacing: 6px;
+	font-size: 25px;
+	font-family: Futura, sans-serif;
+	text-align: left;
+	letter-spacing: 5px;
+	line-height: 38px;
 }
 
 ul {
@@ -74,31 +46,47 @@ ul {
 	margin: 0px;
 }
 
-li {
-	display: inline;
-	padding: 0px;
-	margin: 0px;
-}
-
-#selfie {
-	height: 133px;
-	width: 122px;
-	border: 2px solid #00FF44;
-	position: relative;
-	float: left;
-	margin-right: 25px;
-	margin-top: 5px;
-}
 
 a {
 	text-decoration: none;
+}
+
+#links a {
 	color: #707070
 }
 
-a:hover {
+#links a:hover {
 	color: #0066FF;
 	cursor: pointer;
 }
+
+#sidebar {
+	float: right;
+	left: 250px;
+	width: 250px;
+	border-left: 2px solid #00FF44;
+}
+
+#bio {
+	float: right;
+	letter-spacing: 0.5px;
+	line-height: 25px;
+	margin-left: 12px;
+	font-size: 17px;
+}
+
+#selfie {
+	height: 240px;
+	width: 225px;
+	margin-left: 12px;
+	margin-top: 10px;
+	border: 1px solid #00FF44;
+}
+
+.post {
+	width: 750px;
+}
+
 
 =======
 stylsheet.css
