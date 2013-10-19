@@ -64,27 +64,44 @@ a {
 	float: right;
 	left: 250px;
 	width: 250px;
-	border-left: 2px solid #00FF44;
+	margin-top: 0px;
+	padding-top: 0px;
 }
 
 #bio {
 	float: right;
 	letter-spacing: 0.5px;
 	line-height: 25px;
-	margin-left: 12px;
+	margin-left: 15px;
 	font-size: 17px;
 }
 
 #selfie {
 	height: 240px;
 	width: 225px;
-	margin-left: 12px;
-	margin-top: 10px;
+	margin-left: 15px;
+	margin-top: 12px;
 	border: 1px solid #00FF44;
 }
 
-.post {
+#main {
 	width: 750px;
+	border-right: 2px solid #00FF44;
+	padding-top: 12px;
+	margin: 0px;
+}
+
+#title{
+	margin-top: 0px;
+}
+
+#date{
+	margin-top: 0px;
+}
+
+.post {
+	width: 725px;
+	margin-top: ;
 }
 
 
