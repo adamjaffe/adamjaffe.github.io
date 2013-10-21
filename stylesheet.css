@@ -51,14 +51,15 @@ a {
 }
 
 #sidebar {
+	position: relative;
 	float: right;
-	left: 250px;
 	width: 250px;
 	margin-top: 0px;
 	padding-top: 0px;
 }
 
 #bio {
+	position: relative;
 	float: right;
 	letter-spacing: 0.5px;
 	line-height: 25px;
@@ -75,8 +76,6 @@ a {
 }
 
 #main {
-	position: absolute;
-	float: left;
 	width: 750px;
 	border-right: 2px solid #00FF44;
 	padding-top: 12px;
