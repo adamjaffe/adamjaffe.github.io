@@ -4,7 +4,7 @@ body {
 	font-size: 18px;
 	color:#707070;
 	width: 1000px;
-	margin: 0px auto;
+	margin: auto;
 }
 
 #header {
@@ -19,7 +19,6 @@ body {
 }
 
 #links {
-	display: inline-block;
 	float: right;
 	position: relative;
 	top: 7px;
