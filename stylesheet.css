@@ -8,10 +8,12 @@ body {
 }
 
 #header {
+	position: fixed;
+	z-index: 100;
 	height: 140px;
 	width: 1000px;
 	border-bottom: 2px solid #00FF44;
-	margin-top: 15px;
+	padding-top: 15px;
 	background-color: #FFFFFF;
 }
 
@@ -57,6 +59,7 @@ a {
 
 #sidebar {
 	position: relative;
+	top: 158px;
 	float: right;
 	width: 250px;
 }
@@ -77,6 +80,8 @@ a {
 }
 
 #main {
+	position: relative;
+	top: 148px;
 	width: 750px;
 	border-right: 2px solid #00FF44;
 	padding-top: 12px;
