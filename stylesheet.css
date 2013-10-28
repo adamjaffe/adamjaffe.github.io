@@ -18,14 +18,12 @@ body {
 }
 
 #logo {
-	position: relative;
 	float: left;
 	font-size: 90px;
 	color:#00FF44;
 }
 
 #links {
-	position: relative;
 	float: right;
 	top: 7px;
 	text-transform: uppercase;
