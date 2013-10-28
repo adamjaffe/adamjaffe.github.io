@@ -5,13 +5,12 @@ body {
 	color:#707070;
 	width: 1000px;
 	margin: auto;
-	padding-left: 100px;
-	padding-right: 100px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 #header {
 	height: 140px;
-	width: 1000px;
 	border-bottom: 2px solid #00FF44;
 	padding-top: 15px;
 	background-color: #FFFFFF;
@@ -56,7 +55,6 @@ a {
 
 #sidebar {
 	position: relative;
-	top: 158px;
 	float: right;
 	width: 250px;
 }
@@ -78,7 +76,6 @@ a {
 
 #main {
 	position: relative;
-	top: 148px;
 	width: 750px;
 	border-right: 2px solid #00FF44;
 	padding-top: 12px;
