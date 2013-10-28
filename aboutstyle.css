@@ -22,6 +22,10 @@ body {
 	color:#00FF44;
 }
 
+#extension {
+	font-size: 40px;
+}
+
 #links {
 	position: relative;
 	float: right;
