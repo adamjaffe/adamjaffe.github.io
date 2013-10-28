@@ -1,0 +1,56 @@
+body {
+	background-color:#FFFFFF;
+	font-family: Futura, "Gill Sans", sans-serif;
+	font-size: 18px;
+	color:#707070;
+	width: 1000px;
+	margin: auto;
+}
+
+#header {
+	height: 140px;
+	width: 1000px;
+	border-bottom: 2px solid #00FF44;
+	margin-top: 15px;
+	background-color: #FFFFFF;
+}
+
+#logo {
+	position: relative;
+	float: left;
+	font-size: 90px;
+	color:#00FF44;
+}
+
+#links {
+	position: relative;
+	float: right;
+	top: 7px;
+	text-transform: uppercase;
+	font-size: 25px;
+	font-family: Futura, sans-serif;
+	text-align: left;
+	letter-spacing: 5px;
+	line-height: 38px;
+}
+
+#links a {
+	color: #707070
+}
+
+#links a:hover {
+	color: #0066FF;
+	cursor: pointer;
+}
+
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+a {
+	text-decoration: none;
+}
